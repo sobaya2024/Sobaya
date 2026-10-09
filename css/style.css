@@ -234,3 +234,8 @@ letter-spacing: 0;
 gap: 10px;
 }
 }
+@media (max-width: 700px) {
+  .business-hours {
+    maegin-left: -15px;
+  }
+}
