@@ -93,7 +93,7 @@ margin: 0 auto 40px;
   .shop-inner { gap: 24px; align-items: flex-start; }
   .shop-info { font-size: 13px; line-height: 1.65; }
   .shop-address { gap: 20px; }
-  .business-hours { gap: 22px; }
+  .business-hours { gap: 20px; }
   .shop-instagram { align-self: center; }
 }
 .soba-menu { display: flex; justify-content: center; gap: 0px; }
